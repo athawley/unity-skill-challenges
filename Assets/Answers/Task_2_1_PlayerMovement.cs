@@ -20,7 +20,7 @@ public class Task_2_1_PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         Vector3 movement = new Vector3(movementInputVector.x, 0.0f, movementInputVector.y);
-        cc.SimpleMove(movement);
+        cc.SimpleMove(movement * speed);
     }
 
     public void OnFire()
