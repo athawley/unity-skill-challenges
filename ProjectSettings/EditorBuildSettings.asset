@@ -6,18 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Answers/3_UI_Menus/Task_3_2_Main_Answer.unity
-    guid: a8778d987ca732e4a959ca39c78cf093
+    path: Assets/4_Builds/1_Setting_Up_A_Build/Task_4_1_Main.unity
+    guid: 8479e9bdc653b644db3b20f62b1f2779
   - enabled: 1
-    path: Assets/Answers/3_UI_Menus/Task_3_2_Game_Answer.unity
-    guid: cc9931f1ab466364b84a28b5bfd1337a
-  - enabled: 1
-    path: Assets/Answers/3_UI_Menus/Task_3_2_About_Answer.unity
-    guid: cc2ce1f8c68d1304aad422e5777f874c
-  - enabled: 1
-    path: Assets/3_UI_Menus/2_Buttons_Different_Scene/Task_3_2_Game.unity
-    guid: 1a6bea7ecb289404ca95daa9adea2ad5
-  - enabled: 1
-    path: Assets/3_UI_Menus/2_Buttons_Different_Scene/Task_3_2_Main.unity
-    guid: 891c784e9be660b42993e6b9ac326f4e
+    path: Assets/4_Builds/1_Setting_Up_A_Build/Task_4_1_Game.unity
+    guid: 5bfaaf496424238429c5335be93b26a2
   m_configObjects: {}
